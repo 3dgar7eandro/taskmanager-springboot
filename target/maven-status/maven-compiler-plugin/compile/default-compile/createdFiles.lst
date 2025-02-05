@@ -1,0 +1,5 @@
+com\tuusuario\taskmaster\repository\TaskRepository.class
+com\tuusuario\taskmanager\TaskmanagerApplication.class
+com\tuusuario\taskmaster\controller\TaskController.class
+com\tuusuario\taskmaster\model\Task.class
+com\tuusuario\taskmaster\service\TaskService.class
